@@ -38,7 +38,7 @@ dependencies:
   stacked:
   google_fonts:
   intl:
-  graphql_flutter: ^4.0.1
+  graphql_flutter: ^5.0.0
   country_pickers: ^2.0.0
   flutter_svg:
   badges: ^2.0.1

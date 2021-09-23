@@ -33,7 +33,7 @@ class MyApp extends  StatelessWidget {
         }),
       ),
       theme: ThemeData(
-        textTheme: GoogleFonts.muliTextTheme(
+        textTheme: GoogleFonts.mulishTextTheme(
           Theme.of(context).textTheme,
         ),
       ),
